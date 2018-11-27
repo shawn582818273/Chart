@@ -1,0 +1,13 @@
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\bin\Debug\chart.exe.config
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\bin\Debug\chart.exe
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\bin\Debug\chart.pdb
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\obj\Debug\chart.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\obj\Debug\chart.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\obj\Debug\chart.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\obj\Debug\chart.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\obj\Debug\chart.exe
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\obj\Debug\chart.pdb
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\bin\Debug\DryDump.dll
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\bin\Debug\ActUtlTypeLib.dll
+\\mac\home\documents\visual studio 2015\Projects\chart\chart\bin\Debug\DryDump.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\chart\chart\obj\Debug\chart.Form2.resources
